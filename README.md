@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning PySpark.
+- 🤔 I’m looking for help with the career route of a data engineer.
+- 💬 Ask me about Python, Linux, and data ETL things.
 
 <!--
 **SleepAqua/SleepAqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
