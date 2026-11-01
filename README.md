@@ -12,6 +12,8 @@ not a bad chart.
 
 | Repo | What it is |
 |---|---|
+| [data-quality-gate](https://github.com/SleepAqua/data-quality-gate) | Stops a daily pipeline when a symbol goes stale, a day disappears, a column is renamed or rows duplicate. Exits non-zero so CI gates on it. |
+| [tick-rollup](https://github.com/SleepAqua/tick-rollup) | Streams a trade CSV into OHLCV bars, with hard session boundaries and two documented late-tick modes. Measured at ~260k ticks/s on this machine. |
 | [rag_im](https://github.com/SleepAqua/rag_im) | Snapshots government visa pages, diffs them section by section, answers questions with citations. Local-first, no API key. |
 | [mahjong-mc](https://github.com/SleepAqua/mahjong-mc) | Plays millions of Japanese Mahjong hands to compare strategies. Pure Python, no dependencies, 114 tests. |
 | [GapFiller](https://github.com/SleepAqua/GapFiller) | Monte Carlo Yahtzee: hundreds of thousands of games per strategy, reported with standard errors instead of opinions. |
